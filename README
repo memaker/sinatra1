@@ -1,0 +1,7 @@
+From http://www.sitepoint.com/uno-use-sinatra-implement-rest-api/
+
+Start the uno_server
+$ ruby ./uno_server.rb
+
+Start the uno_client
+$ ruby ./uno_client.rb
